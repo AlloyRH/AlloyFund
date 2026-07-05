@@ -67,3 +67,4 @@ contract AlloyKeeper is Ownable, ReentrancyGuard {
         emit IntervalUpdated(_interval);
     }
 }
+
