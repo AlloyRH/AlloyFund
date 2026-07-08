@@ -32,3 +32,4 @@ GET https://alloy.fund/api/coins/{address}/dividends/{holder}
 CORS-open, no key required.
 
 
+
